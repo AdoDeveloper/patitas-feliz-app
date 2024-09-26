@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PatitasFelizApp</string>
+    <string-array name="roles_array">
+        <item>usuario</item>
+        <item>veterinaria</item>
+    </string-array>
+</resources>
